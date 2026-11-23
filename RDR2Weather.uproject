@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0F0BB47E-44B4-5C07-FDEE-5CB57AA8796C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RDR2Weather",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}

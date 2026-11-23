@@ -1,0 +1,22 @@
+# ---- Unreal Engine build artifacts ----
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# ---- Visual Studio ----
+.vs/
+*.sln
+*.slnx
+*.suo
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+
+# ---- Keep these ----
+!Source/
+!Config/
+!Content/
+!*.uproject
